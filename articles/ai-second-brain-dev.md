@@ -6,6 +6,8 @@ topics: ["claudecode", "ai", "個人開発", "設計", "githubactions"]
 published: true
 ---
 
+![AIエージェントを"リードエンジニア"にして、"型"で崩さず開発する](/images/ai-second-brain/hero-dev.png)
+
 ## 「初日で5,000行」その後が本題
 
 個人開発で **AI Second Brain**（わかりにくい概念やニュースをイラスト付きノートにして貯めるツール）を作りました。開発はほぼ **Claude Code に“リードエンジニア”をやらせた**のですが、スピードがなかなかのものでした。
