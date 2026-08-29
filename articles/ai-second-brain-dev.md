@@ -3,7 +3,7 @@ title: "Claude Codeに“リードエンジニア”をやらせて、実用ア�
 emoji: "🛠️"
 type: "tech"
 topics: ["claudecode", "ai", "個人開発", "設計", "githubactions"]
-published: false
+published: true
 ---
 
 ## 「初日で5,000行」その後が本題
