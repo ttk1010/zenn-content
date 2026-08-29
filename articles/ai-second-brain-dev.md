@@ -70,7 +70,9 @@ https://zenn.dev/ttk1010/articles/ai-second-brain-intro
 
 ## この“型”はテンプレートとして公開しています
 
-ここまでの型①〜③は、特定のプロダクトに依存しません。そこで **AI Second Brainの開発から抽出して、再利用できるテンプレート集 [dev-playbook](https://github.com/ttk1010/dev-playbook) として公開**しました。Issue駆動のワークフロー（`WORKFLOW.md`）、AIエージェントへの指示のコツ、`CLAUDE.md`・Issue・ADRの雛形が入っています。GitHubのテンプレートリポジトリにしてあるので、新しいプロジェクトにコピーすれば、同じやり方ですぐに始められます。この記事の"型"を、そのまま持ち帰れる形にしたものです。
+ここまでの型①〜③は、特定のプロダクトに依存しません。そこで **AI Second Brainの開発から抽出して、再利用できるテンプレート集 dev-playbook として公開**しました。Issue駆動のワークフロー（`WORKFLOW.md`）、AIエージェントへの指示のコツ、`CLAUDE.md`・Issue・ADRの雛形が入っています。GitHubのテンプレートリポジトリにしてあるので、新しいプロジェクトにコピーすれば、同じやり方ですぐに始められます。この記事の"型"を、そのまま持ち帰れる形にしたものです。
+
+https://github.com/ttk1010/dev-playbook
 
 ## ハマりどころと学び
 
